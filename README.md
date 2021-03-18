@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @netdioxadmin
 - 👀 I’m interested in linux and systemadministration
-- 🌱 I’m currently learning docker and kubernets 
+- 🌱 I’m currently learning docker and kubernetes 
 - 💞️ I’m looking to collaborate on ...
 
 
